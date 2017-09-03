@@ -1,0 +1,38 @@
+{
+  "name": "use.poi.io",
+  "version": "1.0.0",
+  "private": true,
+  "description": "user guide for poi the kancolle browser",
+  "main": "index.js",
+  "scripts": {
+    "dev": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KagamiChan/use.poi.io.git"
+  },
+  "keywords": [
+    "poi",
+    "guide"
+  ],
+  "author": "かがみ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KagamiChan/use.poi.io/issues"
+  },
+  "homepage": "https://github.com/KagamiChan/use.poi.io#readme",
+  "dependencies": {
+    "gatsby": "^1.9.22",
+    "gatsby-link": "^1.6.16"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0 || ^4.3.0",
+    "eslint-config-airbnb": "^15.1.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jsx-a11y": "^5.1.1",
+    "eslint-plugin-react": "^7.1.0"
+  }
+}
